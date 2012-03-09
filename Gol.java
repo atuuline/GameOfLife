@@ -1,4 +1,4 @@
-package gol;
+package gol; //testi
 
 import java.util.LinkedList;
 
